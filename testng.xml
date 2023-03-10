@@ -5,5 +5,10 @@
 		<classes>
 			<class name="runner.TestNGRunner"></class>
 		</classes>
+		
+
+
+
+
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
